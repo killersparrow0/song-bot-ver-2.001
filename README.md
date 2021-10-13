@@ -3,7 +3,7 @@
 ## You can download any song using this bot. Can be found in telegram as [➳Ｍｉｓａ❦](https://t.me/meenuty_bot)
 
 ### BEFORE DEPLOY 
-- GIVE STAR TO REPO [⭐️](https://github.com/killersparrow0/song-bot-ver-2.001/stargazers)
+- GIVE STAR TO REPO [>>>⭐️<<<](https://github.com/killersparrow0/song-bot-ver-2.001/stargazers)
 
 ### Commands:
 - In Groups - `Currently Not supported on group,if u build for group chat highly welcomed 🙏🏽`

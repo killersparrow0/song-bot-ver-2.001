@@ -33,7 +33,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Source code", url="https://t.me/joinchat/vcOhk8tX214zNGQ1"
+                        text="🍿MOVIE GROUP🍿", url="https://t.me/movie_ott"
                     )
                 ]
             ]
